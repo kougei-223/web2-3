@@ -1,6 +1,7 @@
 @charset "UTF-8";
 body{
     background-color:#ffe6ea;/*背景色を変える*/
+}
 h1{
     font-size:1.75em;
     color:aquamarine;
