@@ -6,6 +6,9 @@ h1{
     font-size:1.75em;
     color:aquamarine;
 }
+h1 span{
+    color:aquamarine;
+}
 h2{
     font-size:1.25em;
     color:gray;
