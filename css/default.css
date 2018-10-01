@@ -1,6 +1,17 @@
-@charset"UTF-8";
+@charset "UTF-8";
 h1{
     font-size:1.75em;
+    color:aquamarine;
 }
 h2{
-    font-size
+    font-size:1.25em;
+    color:gray;
+}
+p{
+    font-size:0.8em;
+    color:mediumslateblue;
+}
+li{
+    font-size:0.8em
+    color:#ffccd5;
+}
