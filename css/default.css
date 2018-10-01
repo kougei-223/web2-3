@@ -1,4 +1,6 @@
 @charset "UTF-8";
+body{
+    background-color:#ffe6ea;/*背景色を変える*/
 h1{
     font-size:1.75em;
     color:aquamarine;
@@ -9,6 +11,7 @@ h2{
 }
 p{
     font-size:0.8em;
+    bakgrund-color:	#57A7D5;/*段落の文字の背景だけ変える*/
     color:mediumslateblue;
 }
 li{
