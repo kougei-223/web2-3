@@ -19,7 +19,9 @@ p{
     color:mediumslateblue;
 }
 #chris{
-    boder-top:
+    boder-top:#eaffe6 px dotted;
+    text-align:center;
+}
 li{
     font-size:0.8em
     color:#ffccd5;
